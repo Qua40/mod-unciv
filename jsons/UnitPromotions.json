@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Morale Destroyer",
+		"uniques": ["Uncapturable", "[+60]% Strength <vs> [Military] units>", "May capture killed [Military] units", "[+2] HP when healing"]
+	},
+	{
+		"name": "Breach the Walls",
+		"uniques": ["[+15]% Strength <vs cities> <when attacking>","Double movement in [Fallout]", "[+10]% Strength <when fighting in [Fallout] tiles>"]
+	}
