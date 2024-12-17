@@ -12,5 +12,14 @@
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+		"uniques": ["All tiles cost 1 movement",
+			"Ignores Zone of Control",
+			"May enter foreign tiles without open borders",
+			"Can pass through impassable tiles",
+			"Invisible to non-adjacent units",
+			"[+2] Sight",
+			"Withdraws before melee combat <with [10]% chance>",
+			]
+	
 	}
 ]
