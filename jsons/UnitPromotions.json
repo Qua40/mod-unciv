@@ -1,9 +1,15 @@
 [
 	{
 		"name": "Morale Destroyer",
-		"uniques": ["Uncapturable", "[+60]% Strength <vs> [Military] units>", "May capture killed [Military] units", "[+2] HP when healing"]
+		"uniques": ["Uncapturable", "[+25]% Strength <vs> [Military] units>", "May capture killed [Military] units", "[+2] HP when healing", "[+20]% Strength <vs [Wounded] units>"]
 	},
 	{
-		"name": "Breach the Walls",
-		"uniques": ["[+15]% Strength <vs cities> <when attacking>","Double movement in [Fallout]", "[+10]% Strength <when fighting in [Fallout] tiles>"]
-	}
+		"name": "Ballistics Protection",
+		"uniques": ["[+15]% Strength <vs cities> <when defending>","[+20]% Strength <vs Air units> <when defending>"]
+	},
+	{
+		"name": "Tactic Resoluting",
+		"uniques": ["Earn [25]% of killed [Military] unit's [Strength] as [Science]"]
+	},
+
+]
