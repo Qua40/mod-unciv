@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Sniper",
+		"unitType": "Ranged",
+		"uniqueTo": "Undefined",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 11,
+		"range": 5,
+		"cost": 2000,
+		"requiredTech": "Mathematics",
+		"requiredResource": "Iron",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}
+]
