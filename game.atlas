@@ -26,4 +26,15 @@ TileSets/FantasyHex/Units/Sniper
   offset: 0, 0
   index: -1
 
-UnitPromotionIcons/
+UnitPromotionIcons/Morale Destroyer
+  xy: 0, 64
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ballistics Protection
+  xy: 100, 64
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
