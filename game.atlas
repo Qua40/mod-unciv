@@ -32,7 +32,7 @@ UnitPromotionIcons/Morale Destroyer
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Ballistics Protection
+UnitPromotionIcons/Ballistic protection
   xy: 100, 64
   size: 76, 83
   orig: 76, 83
