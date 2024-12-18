@@ -23,7 +23,7 @@
 			"[+20]% rangedStrength <after discovering [Gunpowder]>",
 			"[+25]% strength <after discovering [Astronomy]>",
 			"[+25]% rangedStrength <after discovering [Astronomy]>",
-		
+			"[-70]% strength <when below [90] HP>"
 			
 			]
 	
