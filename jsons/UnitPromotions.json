@@ -4,7 +4,7 @@
 		"uniques": ["Uncapturable", "[+25]% Strength <vs> [Military] units>", "May capture killed [Military] units", "[+2] HP when healing", "[+20]% Strength <vs [Wounded] units>"]
 	},
 	{
-		"name": "Ballistics Protection",
+		"name": "Ballistic protection",
 		"uniques": ["[+15]% Strength <vs cities> <when defending>","[+20]% Strength <vs Air units> <when defending>"]
 	},
 	{
