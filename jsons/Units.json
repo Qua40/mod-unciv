@@ -20,9 +20,33 @@
 			"Withdraws before melee combat <with [10]% chance>",
 			"[-70]% Strength when stacked with [Wounded]"
 			"Can only attack [Land] units"
+			"Limited to [1] per Civilization"
 			"Never appears as a Barbarian unit"
 			
 		]
 	
-	}
+	},
+	{
+		"name": "Monk",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 45,
+		"range": 1,
+		"cost": 1500,
+		"requiredTech": "Philosophy",
+		"attackSound": "phasers"
+		"uniques": ["Ignores Zone of Control",
+			"May enter foreign tiles without open borders",
+			"Requires at least [23] population",
+			"[3] additional attacks per turn"
+			 "[18] HP when healing"
+			"Heals [7] damage if it kills a unit"
+			"Limited to [1] per Civilization"
+			Can be purchased with [Faith] [in all cities]
+			"Never appears as a Barbarian unit"
+			 "[This Unit] heals [8] HP <upon losing at least [10] HP in a single attack>"
+		]
+
+		
+		
 ]
