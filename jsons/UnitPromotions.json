@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Morale Destroyer",
-		"uniques":[ "Uncapturable", "[+25]% Strength <vs> [Wounded] units>", "May capture killed [Military] units", "[+2] HP when healing", "[+20]% Strength <vs [Wounded] units>"
+		"uniques":[ "Uncapturable", "[+25]% Strength <vs [Armor] units>", "May capture killed [Military] units", "[+2] HP when healing", "[+20]% Strength <vs [Wounded] units>"
 		"Only available <upon gaining the [Accuracy II] promotion> <for [Sniper] units>"
 			  ]
 	},
 	{
 		"name": "Ballistic protection",
-		"uniques": ["[+15]% Strength <vs cities> <when defending>","[+20]% Strength <vs air units> <when defending>"]
+		"uniques": ["[+15]% Strength <vs cities> <when defending>","[+20]% Strength <vs [Air] units> <when defending>"]
 	},
 	{
 		"name": "Tactic Resoluting",
