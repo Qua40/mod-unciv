@@ -23,9 +23,11 @@
 			"[+20]% rangedStrength <after discovering [Gunpowder]>",
 			"[+25]% strength <after discovering [Astronomy]>",
 			"[+25]% rangedStrength <after discovering [Astronomy]>",
-			"[-70]% strength <when below [90] HP>"
+			"[-70]% Strength when stacked with [Wounded]"
+			"Can only attack [Land] units"
+			"Never appears as a Barbarian unit"
 			
-			]
+		]
 	
 	}
 ]
