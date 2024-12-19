@@ -1,7 +1,9 @@
 [
 	{
 		"name": "Morale Destroyer",
-		"uniques": ["Uncapturable", "[+25]% Strength <vs> [Military] units>", "May capture killed [Military] units", "[+2] HP when healing", "[+20]% Strength <vs [Wounded] units>"]
+		"uniques":[ "Uncapturable", "[+25]% Strength <vs> [Military] units>", "May capture killed [Military] units", "[+2] HP when healing", "[+20]% Strength <vs [Wounded] units>"
+		"Only available <upon gaining the [Accuracy II] promotion> <for [Sniper] units>"
+			  ]
 	},
 	{
 		"name": "Ballistic protection",
