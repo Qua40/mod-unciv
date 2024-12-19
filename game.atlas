@@ -27,9 +27,34 @@ TileSets/FantasyHex/Units/Sniper
   index: -1
 UnitIcons/Sniper
   rotate: false
-  xy: 0, 44
+  xy: 0, 164
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Monk
+   xy: 33, 1
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Monk
+ xy: 33, 1
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Monk
+ xy: 33, 1
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+UnitIcons/Monk
+  rotate: false
+  xy: 100, 147
+  size: 91, 100
+  orig: 91, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Morale Destroyer
