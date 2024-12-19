@@ -2,7 +2,6 @@
 	{
 		"name": "Sniper",
 		"unitType": "Ranged",
-		"uniqueTo": "Undefined",
 		"movement": 2,
 		"strength": 20,
 		"rangedStrength": 11,
