@@ -19,10 +19,6 @@
 			"Invisible to non-adjacent units",
 			"[+2] Sight",
 			"Withdraws before melee combat <with [10]% chance>",
-			"[+20]% strength <after discovering [Gunpowder]>",
-			"[+20]% rangedStrength <after discovering [Gunpowder]>",
-			"[+25]% strength <after discovering [Astronomy]>",
-			"[+25]% rangedStrength <after discovering [Astronomy]>",
 			"[-70]% Strength when stacked with [Wounded]"
 			"Can only attack [Land] units"
 			"Never appears as a Barbarian unit"
