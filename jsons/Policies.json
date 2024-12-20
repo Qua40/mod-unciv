@@ -13,7 +13,7 @@
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]"
                 ],
                 "row": 1,
-                "column": 0
+                "column": 3
             },
             {
                 "name": "Great Start",
@@ -22,7 +22,7 @@
                   "Only available <after adopting [The Start]>"
                 ],
                 "row": 2,
-                "column": 0
+                "column": 3
             },
             {
                 "name": "Greater Start",
@@ -31,7 +31,7 @@
                   "Only available <after adopting [Great Start]>"
                 ],
                 "row": 3,
-                "column": 0
+                "column": 3
             },
             {
                 "name": "End of the Start",
@@ -41,7 +41,7 @@
                   "[+50]% Golden Age length"
                ],
                 "row": 4,
-                "column": 0
+                "column": 3
             },
             {
                 "name": "Military mastery I",
@@ -50,7 +50,7 @@
                   "Only available <after adopting [The Start]>"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 5
             },
             {
                 "name": "Peace mastery I",
@@ -58,8 +58,8 @@
                     "[+1 Food] from every [Farm]",
                   "Only available <after adopting [The Start]>"
                 ],
-                "row": 3,
-                "column": 2
+                "row": 1,
+                "column": 7
             },
             {
                 "name": "Military mastery II",
@@ -67,8 +67,8 @@
                     "[+10]% Strength <for [Military] units>",
                   "Only available <after adopting [Military mastery I]>"
                 ],
-                "row": 2,
-                "column": 3
+                "row": 4,
+                "column": 5
             },
             {
                 "name": "Ranged mastery I",
@@ -78,8 +78,8 @@
                   "Only available <after adopting [Military mastery I]>",
                   "[+200]% Production when constructing [Sniper] units [in all cities]",
                 ],
-                "row": 1,
-                "column": 3           
+                "row": 3,
+                "column": 4          
             },
             {
                 "name": "Melee mastery I",
@@ -88,7 +88,7 @@
                   "Only available <after adopting [Military mastery I]>",
                 ],
                 "row": 3,
-                "column": 3
+                "column": 5
             },
             {
                 
@@ -97,8 +97,8 @@
                    "[+1 Production] from every [Mine]",
                   "Only available <after adopting [Peace mastery I]>",
                 ],
-                "row": 6,
-                "column": 3
+                "row": 4,
+                "column": 7
             },
             {
                 "name": "Protection mastery I",
@@ -106,8 +106,8 @@
                     "[+33]% Strength <for [Military] units> <when defending>",
                   "Only available <after adopting [Peace mastery I]>",
                 ],
-                "row": 5,
-                "column": 3           
+                "row": 3,
+                "column": 6        
             },
             {
                 "name": "Harmony mastery I",
@@ -117,8 +117,8 @@
                   "Only available <after adopting [Peace mastery I]>",
                   "[+200]% Production when constructing [Monk] units [in all cities]",
                 ],
-                "row": 7,
-                "column": 3
+                "row": 3,
+                "column": 8
             },
                       {
                 "name": "Six of the stats",
@@ -127,8 +127,8 @@
                   "Only available <after adopting [Peace mastery I]>",
                   "Only available <after adopting [Military mastery I]>",
                 ],
-                "row": 1,
-                "column": 4
+                "row": 5,
+                "column": 1
                         }
 
 
