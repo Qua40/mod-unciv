@@ -35,16 +35,18 @@
 		"cost": 1500,
 		"requiredTech": "Philosophy",
 		"attackSound": "phasers"
-		"uniques": ["Ignores Zone of Control",
-			"May enter foreign tiles without open borders",
+		"uniques": ["May enter foreign tiles without open borders",
 			"Requires at least [23] population",
 			"[3] additional attacks per turn"
 			 "[18] HP when healing"
 			"Heals [7] damage if it kills a unit"
+			"All adjacent units heal [3] HP when healing"
+			"[This Unit] heals [8] HP <upon losing at least [10] HP in a single attack>"
+			"Can be purchased for [500] [Faith] [in all cities]"
+			"Can Spread Religion <for [8] movement>"
 			"Limited to [1] per Civilization"
-			Can be purchased with [Faith] [in all cities]
 			"Never appears as a Barbarian unit"
-			 "[This Unit] heals [8] HP <upon losing at least [10] HP in a single attack>"
+			
 		]
 
 		
