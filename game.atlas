@@ -1,7 +1,7 @@
 
 
 game.png
-size: 2048, 256
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -27,7 +27,7 @@ TileSets/FantasyHex/Units/Sniper
   index: -1
 UnitIcons/Sniper
   rotate: false
-  xy: 0, 164
+  xy: 0, 64
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -52,19 +52,19 @@ TileSets/HexaRealm/Units/Monk
   index: -1
 UnitIcons/Monk
   rotate: false
-  xy: 100, 147
-  size: 91, 100
-  orig: 91, 100
+  xy: 100, 64
+  size: 80, 77
+  orig: 80, 77
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Morale Destroyer
-  xy: 0, 64
+  xy: 2000, 64
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ballistic protection
-  xy: 100, 64
+  xy: 2000, 64
   size: 76, 83
   orig: 76, 83
   offset: 0, 0
