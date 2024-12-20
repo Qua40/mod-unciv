@@ -92,7 +92,9 @@
                 ],
                 "row": 3,
                 "column": 3
+            },
             {
+                
                 "name": "Peace mastery II",
                 "uniques": [
                    "[+1 Production] from every [Mine]",
@@ -130,7 +132,15 @@
                 ],
                 "row": 1,
                 "column": 4
-            }
+                        }
+
+
+           ]   
+
+
+    }
+]
+      
 
 
               
