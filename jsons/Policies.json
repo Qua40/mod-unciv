@@ -4,7 +4,7 @@
         "era": "Ancient era",
 
 
-        "policies": [,
+        "policies": [
             {
                 "name": "The Start",
                 "uniques": [
@@ -19,7 +19,7 @@
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
                   "Only available <after adopting [The Start]>"
                 ],
-                "row": 2,
+                "row": 1,
                 "column": 2
             },
             {
@@ -28,7 +28,7 @@
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
                   "Only available <after adopting [Great Start]>"
                 ],
-                "row": 3,
+                "row": 1,
                 "column": 3
             },
             {
@@ -38,7 +38,7 @@
                   "Only available <after adopting [Greater Start]>",
                   "[+50]% Golden Age length"
                ],
-                "row": 4,
+                "row": 1,
                 "column": 4
             },
             {
