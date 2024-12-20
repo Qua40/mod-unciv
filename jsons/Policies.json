@@ -1,0 +1,142 @@
+[
+    {
+        "name": "General Improvements",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "policies": [
+            {
+                "name": "The Start",
+                "uniques": [
+                    "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Great Start",
+                "uniques": [
+                    "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
+                  "Only available <after adopting [The Start]>"
+                ],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Greater Start",
+                "uniques": [
+                    "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
+                  "Only available <after adopting [Great Start]>"
+                ],
+                "row": 4,
+                "column": 3
+            },
+            {
+                "name": "End of the Start",
+                "uniques": [
+                    "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
+                  "Only available <after adopting [Greater Start]>",
+                  "[+50]% Golden Age length"
+               ],
+                "row": 8,
+                "column": 4
+            },
+            {
+                "name": "Military mastery I",
+                "uniques": [
+                    "[+5]% Strength <for [Military] units>",
+                  "Only available <after adopting [The Start]>"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Peace mastery I",
+                "uniques": [
+                    "[+1 Food] from every [Farm]",
+                  "Only available <after adopting [The Start]>"
+                ],
+                "row": 3,
+                "column": 2
+            },
+            {
+                "name": "Military mastery II",
+                "uniques": [
+                    "[+10]% Strength <for [Military] units>",
+                  "Only available <after adopting [Military mastery I]>"
+                ],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Ranged mastery I",
+                "uniques": [
+                    "[+15]% Strength <for [Ranged] units>",
+                   "[+15]% Strength <for [Ranged] units> <when defending>",
+                  "Only available <after adopting [Military mastery I]>",
+                  "[+200]% Production when constructing [Sniper] units [in all cities]",
+                ],
+                "row": 1,
+                "column": 3           
+            },
+            {
+                "name": "Melee mastery I",
+                "uniques": [
+                    "[+15]% Strength <for [Melee] units>",
+                  "Only available <after adopting [Military mastery I]>",
+                ],
+                "row": 3,
+                "column": 3
+            {
+                "name": "Peace mastery II",
+                "uniques": [
+                   "[+1 Production] from every [Mine]",
+                  "Only available <after adopting [Peace mastery I]>",
+                ],
+                "row": 6,
+                "column": 3
+            },
+            {
+                "name": "Protection mastery I",
+                "uniques": [
+                    "[+33]% Strength <for [Military] units> <when defending>",
+                  "Only available <after adopting [Peace mastery I]>",
+                ],
+                "row": 5,
+                "column": 3           
+            },
+            {
+                "name": "Harmony mastery I",
+                "uniques": [
+                    "[+20]% Happiness [in all cities]",
+                    "[+20]% Faith [in all cities]",
+                  "Only available <after adopting [Peace mastery I]>",
+                  "[+200]% Production when constructing [Monk] units [in all cities]",
+                ],
+                "row": 7,
+                "column": 3
+            },
+                      {
+                "name": "Six of the stats",
+                "uniques": [
+                    "[+5]% Happiness, [+5]% Production, [+5]% Gold, [+5]% Food, [+5]% Culture, [+5]%  [in all cities]",
+                  "Only available <after adopting [Peace mastery I]>",
+                  "Only available <after adopting [Military mastery I]>",
+                ],
+                "row": 1,
+                "column": 4
+            },
+
+
+              
+
+
+
+
+                   ]
+      ]
