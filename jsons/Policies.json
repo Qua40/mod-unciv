@@ -4,7 +4,7 @@
         "era": "Ancient era",
 "uniques": [
 			"Each city founded increases culture cost of policies [70]% less than normal","Free Social Policy"
-        },
+        }
         "policies": [
             {
                 "name": "The Start",
