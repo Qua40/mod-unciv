@@ -110,8 +110,8 @@
             {
                 "name": "Harmony mastery I",
                 "uniques": [
-                    "[+20]% Happiness [in all cities]",
-                    "[+20]% Faith [in all cities]",
+                    "[+20]% Happiness [in all cities] <in cities connected to the capital>",
+                    "[+20]% Faith [in all cities ]<in cities connected to the capital>",
                   "Only available <after adopting [Peace mastery I]>",
                   "[+200]% Production when constructing [Monk] units [in all cities]",
                 ],
@@ -121,7 +121,7 @@
                       {
                 "name": "Six of the stats",
                 "uniques": [
-                    "[+5]% Happiness, [+5]% Production, [+5]% Gold, [+5]% Food, [+5]% Culture, [+5]%  [in all cities]",
+                    "[+5]% Happiness, [+5]% Production, [+5]% Gold, [+5]% Food, [+5]% Culture, [+5]%  [in all cities] <in cities connected to the capital>",
                   "Only available <after adopting [Peace mastery I]>",
                   "Only available <after adopting [Military mastery I]>",
                 ],
