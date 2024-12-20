@@ -2,7 +2,7 @@
     {	
         "name": "Skill Tomb",
         "era": "Ancient era",
-        "uniques": ["Each city founded increases culture cost of policies [40]% less than normal","Free Social Policy"],
+        "uniques": ["Each city founded increases culture cost of policies [40]% less than normal"],
 
         "policies": [
             {
