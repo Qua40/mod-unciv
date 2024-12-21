@@ -23,8 +23,8 @@
                 "name": "Great Start",
                 "uniques": [
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
-                "requires": ["The Start"],
                 ],
+                "requires": ["The Start"],
                 "row": 2,
                 "column": 1
             },
@@ -32,8 +32,8 @@
                 "name": "Greater Start",
                 "uniques": [
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
-                "requires": ["Great Start"],
                 ],
+                "requires": ["Great Start"],
                 "row": 3,
                 "column": 1
             },
@@ -41,9 +41,9 @@
                 "name": "End of the Start",
                 "uniques": [
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
-                 "requires": ["Greater Start"],
                   "[+50]% Golden Age length",
                ],
+                "requires": ["Greater Start"],
                 "row": 4,
                 "column": 1
             },
