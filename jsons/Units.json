@@ -47,7 +47,28 @@
 			"Limited to [1] per Civilization",
 			"Never appears as a Barbarian unit"
 		]
-	}
+	},
+	{ 
+		"name": "City Guardian",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 12,
+		"range": 1,
+		"cost": 9999, //I don't think you can get this easily unless you obtain by policy 
+		"attackSound": "phasers"
+		"uniques": [
+			"Requires at least [6] population",
+			"[2] additional attacks per turn",
+			"Heals [50] damage if it kills a unit",
+			"All adjacent units heal [+15] HP when healing",
+			"Cannot be purchased",
+			"[-100]% XP gained from combat",
+			"Free [City Guardian] appears <upon being defeated>",
+		        "[+200]% to Flank Attack bonuses",
+			"[This Unit] takes [30] damage <in tiles adjacent to [Foreign Land] tiles>",
+			"Limited to [1] per Civilization",
+			"Never appears as a Barbarian unit",
+		]
 
 		
 		
