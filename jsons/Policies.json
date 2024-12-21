@@ -123,22 +123,12 @@
                 ],
                 "row": 3,
                 "column": 8
-            },
-                      {
-                "name": "Six of the stats",
-                "uniques": [
-                    "[+5]% [Happiness]",
-                    "[+5]% [Production]",
-                    "[+5]% [Gold]", 
-                    "[+5]% [Food]",
-                    "[+5]% [Culture]",
-                    "[+5]% [Faith]",
-                  "Only available <after adopting [Peace mastery I]>",
-                  "Only available <after adopting [Military mastery I]>",
-                ],
-                "row": 5,
-                "column": 1
-                        }
+            }
+                    
+
+
+                           
+                        
 
 
            ]   
