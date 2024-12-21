@@ -40,7 +40,7 @@
             {
                 "name": "Other's to Start",
                 "uniques": [
-                    "[Free [City Guardian] appears]",
+                    "Free [City Guardian] appears",
                 ],
                 "requires": ["Greater Start"],
                 "row": 3,
