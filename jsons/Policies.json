@@ -25,8 +25,8 @@
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
                 ],
                 "requires": ["The Start"],
-                "row": 2,
-                "column": 1
+                "row": 1,
+                "column": 3
             },
             {
                 "name": "Greater Start",
@@ -34,7 +34,16 @@
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
                 ],
                 "requires": ["Great Start"],
-                "row": 3,
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Other's to Start",
+                "uniques": [
+                    "[Free [City Guardian] appears]",
+                ],
+                "requires": ["Greater Start"],
+                "row": 2,
                 "column": 1
             },
             {
@@ -44,7 +53,7 @@
                   "[+50]% Golden Age length",
                ],
                 "requires": ["Greater Start"],
-                "row": 4,
+                "row": 2,
                 "column": 1
             },
             {    "name": "Skill Tomb Complete",
