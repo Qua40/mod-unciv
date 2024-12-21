@@ -23,116 +23,39 @@
                 "name": "Great Start",
                 "uniques": [
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
-                  "Only available <after adopting [The Start]>"
+                "requires": ["The Start"],
                 ],
-                "row": 1,
-                "column": 2
+                "row": 2,
+                "column": 1
             },
             {
                 "name": "Greater Start",
                 "uniques": [
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
-                  "Only available <after adopting [Great Start]>"
+                "requires": ["Great Start"],
                 ],
-                "row": 1,
-                "column": 3
+                "row": 3,
+                "column": 1
             },
             {
                 "name": "End of the Start",
                 "uniques": [
                     "[+1 Production, +1 Science, +1 Gold, +1 Culture] from every [Monument]",
-                  "Only available <after adopting [Greater Start]>",
-                  "[+50]% Golden Age length"
+                 "requires": ["Greater Start"],
+                  "[+50]% Golden Age length",
                ],
-                "row": 1,
-                "column": 4
-            },
-            {
-                "name": "Military mastery I",
-                "uniques": [
-                    "[+5]% Strength <for [Military] units>",
-                  "Only available <after adopting [The Start]>"
-                ],
-                "row": 1,
-                "column": 5
-            },
-            {
-                "name": "Peace mastery I",
-                "uniques": [
-                    "[+1 Food] from every [Farm]",
-                  "Only available <after adopting [The Start]>"
-                ],
-                "row": 1,
-                "column": 7
-            },
-            {
-                "name": "Military mastery II",
-                "uniques": [
-                    "[+10]% Strength <for [Military] units>",
-                  "Only available <after adopting [Military mastery I]>"
-                ],
                 "row": 4,
-                "column": 5
+                "column": 1
             },
-            {
-                "name": "Ranged mastery I",
+            {    "name": "Skill Tomb Complete",
                 "uniques": [
-                    "[+15]% Strength <for [Ranged] units>",
-                   "[+15]% Strength <for [Ranged] units> <when defending>",
-                  "Only available <after adopting [Military mastery I]>",
-                  "[+200]% Production when constructing [Sniper] units [in all cities]",
-                ],
-                "row": 3,
-                "column": 4          
-            },
-            {
-                "name": "Melee mastery I",
-                "uniques": [
-                    "[+15]% Strength <for [Melee] units>",
-                  "Only available <after adopting [Military mastery I]>",
-                ],
-                "row": 3,
-                "column": 5
-            },
-            {
-                
-                "name": "Peace mastery II",
-                "uniques": [
-                   "[+1 Production] from every [Mine]",
-                  "Only available <after adopting [Peace mastery I]>",
-                ],
-                "row": 4,
-                "column": 7
-            },
-            {
-                "name": "Protection mastery I",
-                "uniques": [
-                    "[+33]% Strength <for [Military] units> <when defending>",
-                  "Only available <after adopting [Peace mastery I]>",
-                ],
-                "row": 3,
-                "column": 6        
-            },
-            {
-                "name": "Harmony mastery I",
-                "uniques": [
-                    "[+20]% [Happiness] [in all cities] <in cities connected to the capital>",
-                    "[+20]% [Faith] [in all cities ]<in cities connected to the capital>",
-                  "Only available <after adopting [Peace mastery I]>",
-                  "[+200]% Production when constructing [Monk] units [in all cities]",
-                ],
-                "row": 3,
-                "column": 8
-            }
-                    
-
-
-                           
-                        
-
-
-           ]   
-
-
+                    "[+15]% growth [in all cities]",
+                    "Provides a [Monument] in your first [8] cities for free",
+                    "[+50]% Production when constructing [All] units [in all cities]",
+                ]
+               }
+        ]
     }
-]
+
+
+                
