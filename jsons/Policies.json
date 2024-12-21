@@ -43,8 +43,8 @@
                     "[Free [City Guardian] appears]",
                 ],
                 "requires": ["Greater Start"],
-                "row": 2,
-                "column": 1
+                "row": 3,
+                "column": 5
             },
             {
                 "name": "End of the Start",
@@ -53,7 +53,7 @@
                   "[+50]% Golden Age length",
                ],
                 "requires": ["Greater Start"],
-                "row": 2,
+                "row": 3,
                 "column": 1
             },
             {    "name": "Skill Tomb Complete",
