@@ -61,16 +61,22 @@
 			"[2] additional attacks per turn",
 			"Heals [50] damage if it kills a unit",
 			"All adjacent units heal [+15] HP when healing",
-			"Cannot be purchased",
+			"[+100]% Strength <when at war>",
 			"[-100]% XP gained from combat",
-			"Free [City Guardian] appears <upon being defeated>",
+			"Free [City Guardian] appears <upon being defeated> <hidden from users>",
+			"[This Unit] takes [90] damage <upon being defeated> <hidden from users>",
+			"[This Unit] loses [3] movement <upon being defeated> <hidden from users>",
+			"[-70]% Strength <for [3] turns> <upon being defeated> <hidden from users>",
+			"Comment [If recently defeated, this unit revives but weaker.]",
 		        "[+200]% to Flank Attack bonuses",
-			"[This Unit] takes [30] damage <in tiles adjacent to [Foreign Land] tiles>",
+			"[This Unit] takes [5] damage <upon ending a turn in a [Foreign Land] tile> <hidden from users>",
+			"[0] HP when healing <upon ending a turn in a [Foreign Land] tile> <hidden from users>",
+			"Comment [The Guardian constantly deconstruct in foreign lands.]",
 			"Limited to [1] per Civilization",
 			"Never appears as a Barbarian unit",
+			"Cannot be purchased",
 		]
 	}
 
-		
 		
 ]
