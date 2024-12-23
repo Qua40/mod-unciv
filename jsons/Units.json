@@ -96,7 +96,73 @@
 			"Never appears as a Barbarian unit",
 			"Cannot be purchased",
 		]
+	},
+	{
+		"name": "Party Trio Summoner",
+		"unitType": "Melee",
+		"movement": 5,
+		"strength": 0,
+		"rangedStrength": 0,
+		"range": 2,
+		"cost": 1000,
+		"requiredTech": "Guilds",
+		"requiredResource": "Iron, Horses",
+		"uniques": [
+			"Limited to [1] per Civilization <hidden from users>",
+			"Never appears as a Barbarian unit <hidden from users>",
+
+			
+		]
+	
+	},
+	{
+		"name": "Party Trio Warrior",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 10,
+		"rangedStrength": 7,
+		"range": 1,
+		"cost": 100, //you can't build this
+		"requiredTech": "Guilds",
+		"requiredResource": "Iron",
+		"attackSound": "phasers"
+		"uniques":["Unbuildable",
+			   "[+20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+			   "[+20]% Strength bonus for [Party Trio Archer] units within [1] tiles",
+			   "[1] additional attacks per turn <when adjacent to a [Party Trio Archer] unit>",
+		
+		
+		]
+	},
+	{
+		"name": "Party Trio Archer",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 11,
+		"range": 2,
+		"cost": 100, //you can't build this
+		"requiredTech": "Mathematics",
+		"attackSound": "phasers"
+		"uniques":["Unbuildable",
+			   "[+20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+			   "[+20]% Strength bonus for [Party Trio Flag Bearer] units within [1] tiles",
+			   "[This Unit] gains [15] XP <upon damaging a [Military] unit> <with [33]% chance>",
+		]
 	}
+	{
+		"name": "Party Trio Flag Bearer",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 9,
+		"range": 1,
+		"cost": 100, //you can't build this
+		"requiredTech": "Guilds",
+		"attackSound": "phasers"
+		"uniques":["Unbuildable",
+			   "[+20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+			   "[+20]% Strength bonus for [Party Trio flag Bearer] units within [1] tiles",
+			   "[+20]% Strength <for [Military] units> <vs [Military] units>",
 
 		
 ]
