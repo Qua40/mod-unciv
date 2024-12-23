@@ -82,7 +82,7 @@
 			"Free [City Guardian] appears <upon being defeated> <hidden from users>",
 			"[This Unit] takes [90] damage <upon being defeated> <hidden from users>",
 			"[This Unit] loses [3] movement <upon being defeated> <hidden from users>",
-			"[-70]% Strength <for [3] turns> <for every [1] City Guardian Units> <upon being defeated> <hidden from users>",
+			"[-70]% Strength <for [3] turns> <for [City Guardian] units> <upon being defeated> <hidden from users>",
 			"Comment [If recently defeated, this unit revives but weaker.]",
 		        "[+200]% to Flank Attack bonuses",
 			"[This Unit] takes [5] damage <upon ending a turn in a [Foreign Land] tile> <hidden from users>",
