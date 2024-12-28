@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Sniper",
-		"unitType": "Ranged",
+		"unitType": "Heroic Ranged Gunpowder",
 		"movement": 2,
 		"strength": 20,
 		"rangedStrength": 11,
@@ -35,7 +35,7 @@
 	},
 	{
 		"name": "Monk",
-		"unitType": "Melee",
+		"unitType": "Heroic Melee",
 		"movement": 2,
 		"strength": 20,
 		"range": 1,
@@ -66,7 +66,7 @@
 	},
 	{ 
 		"name": "City Guardian",
-		"unitType": "Melee",
+		"unitType": "Special Melee",
 		"movement": 3,
 		"strength": 12,
 		"range": 1,
@@ -100,7 +100,7 @@
 	},
 	{
 		"name": "Party Trio Summoner",
-		"unitType": "Melee",
+		"unitType": "Civilian",
 		"movement": 5,
 		"strength": 0,
 		"rangedStrength": 0,
@@ -108,9 +108,9 @@
 		"cost": 1000,
 		"requiredTech": "Guilds",
 		"requiredResource": "Iron, Horses",
-		"uniques": ["Free [Party Trio Warrior] appears <every [5] turns>",
-			"Free [Party Trio Archer] appears <every [6] turns>",
-			"Free [Party Trio Flag Bearer] appears <every [7] turns>",
+		"uniques": ["Free [Party Trio Warrior] appears <every [5] turns> <with [Iron]>",
+			"Free [Party Trio Archer] appears <every [6] turns> <with [Iron]>",
+			"Free [Party Trio Flag Bearer] appears <every [7] turns> <with [Iron]>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"Never appears as a Barbarian unit <hidden from users>",
 			"Comment [As a heroic unit only organised civilization can train this, unique to per civilizations. Not including summons.]",
@@ -121,7 +121,7 @@
 	},
 	{
 		"name": "Party Trio Warrior",
-		"unitType": "Ranged",
+		"unitType": "Special Ranged",
 		"movement": 2,
 		"strength": 10,
 		"rangedStrength": 7,
@@ -140,7 +140,7 @@
 	},
 	{
 		"name": "Party Trio Archer",
-		"unitType": "Ranged",
+		"unitType": "Special Ranged",
 		"movement": 2,
 		"strength": 7,
 		"rangedStrength": 11,
@@ -156,7 +156,7 @@
 	},
 	{
 		"name": "Party Trio Flag Bearer",
-		"unitType": "Melee",
+		"unitType": "Special Melee",
 		"movement": 2,
 		"strength": 9,
 		"cost": 100, //you can't build this
@@ -169,5 +169,25 @@
 
 		
 		]
+	},
+	{
+		"name": "Volcano",
+		"unitType": "Heroic Siege",
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 30,
+		"range": 8,
+		"cost": 1600,
+		"requiredTech": "Mathematics",
+		"requiredResource": "Coal",
+		"promotions": ["Indirect Fire"],
+		"attackSound": "phasers"
+		"uniques": ["[-100]% Strength <when below [99] HP>",
+			"[This Unit] takes [20] damage <upon damaging a [Military] unit>",
+			"[This Unit] takes [20] damage <vs cities>",
+			"Blast radius [2]",
+			"[+500]% Strength <vs cities>"
+]
+
 	}
 ]
