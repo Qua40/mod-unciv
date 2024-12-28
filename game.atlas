@@ -8,21 +8,21 @@ repeat: none
 TileSets/HexaRealm/Units/Sniper
   rotate: false
   xy: 0, 0
-  size: 32, 64
-  orig: 32, 64
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper
   rotate: false
     xy: 0, 0
-  size: 32, 64
-  orig: 32, 64
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sniper
     xy: 0, 0
-  size: 32, 64
-  orig: 32, 64
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Sniper
@@ -33,21 +33,21 @@ UnitIcons/Sniper
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Monk
-   xy: 33, 1
-  size: 27, 62
-  orig: 27, 62
+   xy: 66, 0
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Monk
- xy: 33, 1
-  size: 27, 62
-  orig: 27, 62
+ xy: 66, 0
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Monk
- xy: 33, 1
-  size: 27, 62
-  orig: 27, 62
+ xy: 66, 0
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Monk
@@ -67,5 +67,23 @@ UnitPromotionIcons/Ballistic protection
   xy: 2000, 64
   size: 76, 83
   orig: 76, 83
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/City Guardian
+   xy: 135, 0
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/City Guardian
+ xy: 135, 0
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/City Guardian
+ xy: 135, 0
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
