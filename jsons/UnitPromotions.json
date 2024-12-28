@@ -1,17 +1,39 @@
 [
 	{
-		"name": "Morale Destroyer",
-		"uniques":[ "Uncapturable", "[+25]% Strength <vs [Armor] units>", "May capture killed [Military] units", "[+2] HP when healing", "[+20]% Strength <vs [Wounded] units>"
-		"Only available <upon gaining the [Accuracy II] promotion> <for [Sniper] units>"
+		"name": "Morale Destroyer I",
+		"uniques":["[+25]% Strength <vs [Armor] units>", "May capture killed [Military] units <with [33]% chance>", "[+2] HP when healing", "[+20]% Strength <vs [Wounded] units>",
 			  ]
+		"unitTypes": ["Heroic Melee","Heroic Ranged","Heroic Mounted","Heroic Siege","Heroic Archery","Heroic Ranged Gunpowder","Heroic Armored","Heroic Melee Water","Heroic Ranged Water","Heroic Submarine"],
 	},
 	{
-		"name": "Ballistic protection",
-		"uniques": ["[+15]% Strength <vs cities> <when defending>","[+20]% Strength <vs [Air] units> <when defending>"]
+		"name": "Morale Destroyer II",
+		"prerequisites": ["Morale Destroyer I"],
+		"uniques":["[+50]% Strength <vs [Armor] units>", "[+25]% Strength <vs [Military] units>","May capture killed [Military] units <with [66]% chance>", "[+4] HP when healing", "[+50]% Strength <vs [Wounded] units>",
+			  ]
+		"unitTypes": ["Heroic Melee","Heroic Ranged","Heroic Mounted","Heroic Siege","Heroic Archery","Heroic Ranged Gunpowder","Heroic Armored","Heroic Melee Water","Heroic Ranged Water","Heroic Submarine"],
 	},
 	{
-		"name": "Tactic Resoluting",
+		"name": "Morale Destroyer III",
+		"prerequisites": ["Morale Destroyer II"],
+		"uniques":["[+100]% Strength <vs [Armor] units>", "[+50]% Strength <vs [Military] units>","May capture killed [Military] units <with [99]% chance>", "[+6] HP when healing", "[+75]% Strength <vs [Wounded] units>",
+			  ]
+		"unitTypes": ["Heroic Melee","Heroic Ranged","Heroic Mounted","Heroic Siege","Heroic Archery","Heroic Ranged Gunpowder","Heroic Armored","Heroic Melee Water","Heroic Ranged Water","Heroic Submarine"],
+	},
+	{
+		"name": "Ballistic protection I",
+		"uniques": ["[+15]% Strength <vs cities> <when defending>","[+20]% Strength <vs [Air] units> <when defending>"],
+		"unitTypes": ["Heroic Melee","Heroic Ranged","Heroic Mounted","Heroic Siege","Heroic Archery","Heroic Ranged Gunpowder","Heroic Armored","Heroic Melee Water","Heroic Ranged Water","Heroic Submarine"],
+	},
+	{
+		"name": "Tactic Resoluting I",
 		"uniques": ["Earn [25]% of killed [Military] unit's [Strength] as [Science]"]
-	}
+		"unitTypes": ["Heroic Melee","Heroic Ranged","Heroic Mounted","Heroic Siege","Heroic Archery","Heroic Ranged Gunpowder","Heroic Armored","Heroic Melee Water","Heroic Ranged Water","Heroic Submarine"],
+	},
+	{
+		"name": "Tactic Resoluting II",
+		"prerequisites": ["Tactic Resoluting I"],
+		"uniques": ["Earn [10]% of killed [Military] unit's [Cost] as [Science]"]
+		"unitTypes": ["Heroic Melee","Heroic Ranged","Heroic Mounted","Heroic Siege","Heroic Archery","Heroic Ranged Gunpowder","Heroic Armored","Heroic Melee Water","Heroic Ranged Water","Heroic Submarine"],	
+	},
 
 ]
