@@ -20,16 +20,15 @@
 			"[+2] Sight <hidden from users>",
 			"Withdraws before melee combat <with [10]% chance> <hidden from users>",
 			"Comment [This unit also have a greater sight, sometimes withdraws melee attacks.]",
-			"[-70]% Strength when stacked with [Wounded]",
-			"Can only attack [Land] units",
+			"[-70]% Strength <vs [Armoured]> <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"Never appears as a Barbarian unit <hidden from users>",
 			"Comment [As a heroic unit only organised civilization can train this, unique to per civilizations.]",
-			"[+80]% Strength <starting from the [Medieval era]> ",
-			"[+60]% Strength <starting from the [Industrial era]>",
-			"[+40]% Strength <starting from the [Atomic era]>",
-			"[+20]% Strength <starting from the [Future era]>",
-			"[+1000]% Strength <with [3]% chance> <for [Sniper] units>"
+			"[+80]% Strength <starting from the [Medieval era]> <before the [Industrial era]>",
+			"[+160]% Strength <starting from the [Industrial era]> <before the [Atomic era]>",
+			"[+240]% Strength <starting from the [Atomic era]> <before the [Future era]>",
+			"[+320]% Strength <starting from the [Future era]>",
+			"[+1000]% Strength <with [33]% chance> <for [Sniper] units>"
 			
 		]
 	
@@ -57,12 +56,12 @@
 			"[+80]% Strength bonus for [Wounded] units within [3] tiles <hidden from users>",
 			"Comment [The Monk also known for its ability to survive in outnumbered situations with limited allies.]",
 			"Can be purchased for [500] [Faith] [in all cities]",
-			"[+100]% Strength <starting from the [Medieval era]>",
-			"[+100]% Strength <starting from the [Industrial era]>",
-			"[+100]% Strength <starting from the [Atomic era]>",
-			"[+100]% Strength <starting from the [Future era]>",
-			"Limited to [1] per Civilization",
-			"Never appears as a Barbarian unit"
+			"[+150]% Strength <starting from the [Medieval era]> <before the [Atomic era]>",
+			"[+300]% Strength <starting from the [Atomic era]> <before the [Future era]>",
+			"[+340]% Strength <starting from the [Future era]>",
+			"Limited to [1] per Civilization <hidden from users>",
+			"Never appears as a Barbarian unit <hidden from users>",
+			"Comment [As a heroic unit only organised civilization can train this, unique to per civilizations.]",
 		]
 	},
 	{ 
@@ -92,9 +91,11 @@
 			"[+100]% Strength <starting from the [Industrial era]>",
 			"[+100]% Strength <starting from the [Atomic era]>",
 			"[+100]% Strength <starting from the [Future era]>",
-			"Limited to [1] per Civilization",
-			"Never appears as a Barbarian unit",
+			"Limited to [3] per Civilization <hidden from users>",
+			"Never appears as a Barbarian unit <hidden from users>",
+			"Comment [As a heroic unit only organised civilization can build this,but not quite unique to per civilizations.]",
 			"Cannot be purchased",
+			
 		]
 	},
 	{
@@ -112,6 +113,7 @@
 			"Free [Party Trio Flag Bearer] appears <every [7] turns>",
 			"Limited to [1] per Civilization <hidden from users>",
 			"Never appears as a Barbarian unit <hidden from users>",
+			"Comment [As a heroic unit only organised civilization can train this, unique to per civilizations. Not including summons.]",
 
 			
 		]
@@ -144,7 +146,7 @@
 		"rangedStrength": 11,
 		"range": 2,
 		"cost": 100, //you can't build this
-		"requiredTech": "Mathematics",
+		"requiredTech": "Guilds",
 		"attackSound": "phasers"
 		"uniques":["Unbuildable",
 			   "[+20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
