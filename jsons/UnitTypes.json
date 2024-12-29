@@ -1,3 +1,4 @@
+[
     {  //Monk
         "name": "Heroic Melee",
         "movementType": "Land",
@@ -134,7 +135,14 @@
     {  //not yet
         "name": "Special Submarine",
         "movementType": "Water",
-        "uniques":[
+        "uniques":[]
+    }
+]
+
+
+
+
+        
                    "[+2] XP gained from combat"
                   ]
     }
