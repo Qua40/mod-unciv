@@ -1,4 +1,4 @@
-
+[
     {  //Monk
         "name": "Heroic Melee",
         "movementType": "Land",
@@ -137,7 +137,7 @@
         "movementType": "Water",
         "uniques":[],
     }
-
+]
 
 
 
