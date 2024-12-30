@@ -227,7 +227,7 @@
 		"uniques": ["All tiles cost 1 movement",
 			"Ignores Zone of Control",
 			"May enter foreign tiles without open borders",
-			"[No] Sight",
+			"[0] Sight",
 			"Self-destructs when attacking",
 			"Unbuildable",
 			"Never appears as a Barbarian unit",
