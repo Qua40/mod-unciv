@@ -192,7 +192,7 @@
 			"[+1000]% Strength <starting from the [Future era]>",
 ]
 
-	}
+	},
 	{
 		"name": "Bolt",
 		"unitType": "Heroic Ranged",
@@ -209,7 +209,29 @@
 			"[This Unit] takes [5] damage <upon damaging a [Military] unit>",
 			"[This Unit] takes [20] damage <vs cities>",
 			"Can move after attacking <starting from the [Industrial era]>",
-			<for every adjacent [Terrain]>"
+			"Free [Energy] appears <for every adjacent [Terrain]>",
+			"Never appears as a Barbarian unit",
+]
+
+	},
+	{
+		"name": "Energy",
+		"unitType": "Special Ranged",
+		"movement": 4,
+		"strength": 1,
+		"rangedStrength": 15,
+		"range": 1,
+		"cost": 100,
+		"requiredTech": "Physics",
+		"attackSound": "phasers"
+		"uniques": ["All tiles cost 1 movement",
+			"Ignores Zone of Control",
+			"May enter foreign tiles without open borders",
+			"[No] Sight",
+			"Self-destructs when attacking",
+			"Unbuildable",
+			"Never appears as a Barbarian unit",
+			
 ]
 
 	}
