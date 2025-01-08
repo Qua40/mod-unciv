@@ -1,4 +1,4 @@
-	{
+[	{
 		"name": "Platinum",
 		"resourceType": "Strategic",
 		"revealedBy": "Steel",
@@ -40,4 +40,5 @@
 					"Minor deposits generated with weight [10] <in [{Featureless} {Snow}] tiles>"],
 		"majorDepositAmount": {"sparse": 4, "default": 8, "abundant": 13},
 		"minorDepositAmount": {"sparse": 3, "default": 5, "abundant": 9}
-	},
+	}
+]
