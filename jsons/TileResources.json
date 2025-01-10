@@ -40,5 +40,20 @@
 					"Minor deposits generated with weight [10] <in [{Featureless} {Snow}] tiles>"],
 		"majorDepositAmount": {"sparse": 4, "default": 8, "abundant": 13},
 		"minorDepositAmount": {"sparse": 3, "default": 5, "abundant": 9}
-	}
+	},
+	{
+		"name": "Fearsome Lores"
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled",
+			    "Doesn't generate naturally",
+			    "[+1 Culture] <when number of [Fearsome Lores] is more than [15]>",
+			    "[+2 Culture] <when number of [Fearsome Lores] is more than [40]>",
+			    "[+1 Faith, +1 Culture] <when number of [Fearsome Lores] is more than [90]>",
+			    "[+1 Faith, +1 Culture] from every specialist [in all cities] <when number of [Fearsome Lores] is more than [150]>",
+			    "[+12]% [Culture] [in all cities] <when number of [Fearsome Lores] is more than [225]>",
+			    "[7]% [Faith] [in all cities] <when number of [Fearsome Lores] is more than [225]>",
+			    "Instantly gain [1] [Fearsome Lores] <every [1] turns> <when number of [Fearsome Lores] is more than [225]>",
+			    "Resting point for Influence with City-States is increased by [10] <when number of [Fearsome Lores] is more than [300]>",
+			    "Each city founded increases culture cost of policies [23]% less than normal <when number of [Fearsome Lores] is more than [300]>",
+		]
 ]
